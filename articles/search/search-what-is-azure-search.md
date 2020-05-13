@@ -1,7 +1,7 @@
 ---
 title: Introduction to Azure Cognitive Search
 titleSuffix: Azure Cognitive Search
-description: Azure Cognitive  Search is a fully managed hosted cloud search service from Microsoft. Read feature descriptions, the development workflow, comparisons to other Microsoft search products, and how to get started.
+description: Azure Cognitive  Search is a fully managed hosted cloud search service from Microsoft. Learn about features, the development workflow, comparisons to other Microsoft search products, and how to get started.
 
 manager: nitinme
 author: HeidiSteen
